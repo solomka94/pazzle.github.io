@@ -1,0 +1,1100 @@
+@media screen and (max-width: 1200px) {
+  header .logo {
+    font-size: 23px;
+    display: inline-block;
+    margin: 3px 0 0 0; }
+  header .nav {
+    margin: 0; }
+    header .nav li a {
+      padding: 10px 15px 10px 15px; }
+  header .user-wrapp {
+    padding: 12px 0 0 40px; }
+  header .autoris {
+    margin-right: 52px; }
+
+  .header-bottom .time-block {
+    width: 150px; }
+  .header-bottom .select-puz {
+    width: 150px;
+    float: left; }
+    .header-bottom .select-puz .select-puz-size .jq-selectbox__trigger {
+      right: 0; }
+  .header-bottom .hb-nav {
+    float: left; }
+    .header-bottom .hb-nav li a {
+      padding: 10px 12px 10px 12px; }
+
+  .main-slider .title {
+    font-size: 35px; }
+  .main-slider .slider-txt {
+    font-size: 15px; }
+
+  .our-series .page-title {
+    margin: 24px 0 20px 0; }
+  .our-series .themes-and-coll .coll-item {
+    width: 100%; }
+
+  .pazzle_authors .page-title-sm {
+    margin: 35px 0 25px 0; }
+
+  .theme-item {
+    height: 102px; }
+    .theme-item .page-title-sm {
+      font-size: 14px; }
+    .theme-item p {
+      font-size: 12px; }
+
+  .top-gamers .tg-list a {
+    text-overflow: ellipsis;
+    overflow: hidden;
+    width: 100px; }
+
+  .pop-caleg .pc-list a {
+    text-overflow: ellipsis;
+    overflow: hidden;
+    width: 100px; }
+
+  .puz-item-bg .item-prevue .item-img {
+    width: 100%; }
+
+  .info2 .puz-item-bg {
+    width: 75%;
+    margin: 0 auto 30px auto; }
+  .info2 .rait-list {
+    width: 74%;
+    float: right; }
+  .info2 .best-time {
+    width: 74%; }
+  .info2 .zack-pazl {
+    width: 74%; }
+    .info2 .zack-pazl .default-btn {
+      margin: 0 auto; }
+  .info2 .similar {
+    width: 75%;
+    margin: 0 auto 40px auto; }
+
+  .oth-pers-room .ava > img {
+    height: 45px;
+    width: 45px; }
+  .oth-pers-room .user-header .user-ava .play-name {
+    font-size: 15px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    width: 150px; }
+  .oth-pers-room .user-header .user-inf {
+    font-size: 11px;
+    padding: 4px 0 0 25px; }
+  .oth-pers-room .user-header .user-commun {
+    padding: 0 0 0 35px; }
+    .oth-pers-room .user-header .user-commun a, .oth-pers-room .user-header .user-commun p {
+      font-size: 12px; }
+    .oth-pers-room .user-header .user-commun .dispatch {
+      margin: 5px 0 7px -15px !important; }
+    .oth-pers-room .user-header .user-commun .change-pass {
+      margin: 0 0 6px -15px;
+      display: block; }
+  .oth-pers-room .friend-item {
+    padding: 10px 0 10px 13px; }
+    .oth-pers-room .friend-item .play-name {
+      margin: 0 0 7px 20px;
+      font-size: 15px;
+      text-overflow: ellipsis;
+      overflow: hidden;
+      width: 110px; }
+
+  .pazzle_players .prof-inf-wp {
+    padding: 0 15px; }
+  .pazzle_players .ava .medal-list .medal-gold {
+    width: 20px; }
+  .pazzle_players .ava .medal-list .new-player {
+    bottom: 26px;
+    width: 20px; }
+  .pazzle_players .prof-info {
+    width: 100%; }
+    .pazzle_players .prof-info .ava-info p {
+      width: 70%;
+      padding: 0;
+      margin: 0 0 0 19px; }
+    .pazzle_players .prof-info p {
+      width: 100%;
+      margin: 0;
+      padding: 10px 0; }
+
+  .create-pazl {
+    padding: 0 20px; }
+    .create-pazl .zack-wp {
+      width: 80%;
+      margin: 0 auto;
+      padding-right: 0; }
+
+  .themes-and-coll .coll-item {
+    width: 100%; }
+    .themes-and-coll .coll-item img {
+      width: 100%;
+      height: 100%; } }
+@media screen and (max-width: 992px) {
+  .togg-btn {
+    display: block;
+    font-size: 27.5px;
+    width: 43px;
+    height: 43px;
+    text-align: center;
+    color: white;
+    background-color: #e87e04;
+    position: absolute;
+    top: 0;
+    left: -43px;
+    -webkit-box-shadow: 0 3px 9.7px 0.3px rgba(45, 49, 56, 0.3);
+    box-shadow: 0 3px 9.7px 0.3px rgba(45, 49, 56, 0.3);
+    transition: all 0.5s linear; }
+    .togg-btn i {
+      display: inline-block;
+      vertical-align: middle; }
+    .togg-btn:hover {
+      background-color: #e87e04; }
+    .togg-btn:focus {
+      background-color: #e87e04; }
+
+  header {
+    height: auto; }
+    header .nav {
+      display: none; }
+    header .logo {
+      font-size: 28px;
+      margin: 0 0 6px 0; }
+    header #nav-icon1 {
+      width: 38px;
+      height: 31px;
+      position: relative;
+      margin: 7px auto 0 auto;
+      -webkit-transform: rotate(0deg);
+      -moz-transform: rotate(0deg);
+      -o-transform: rotate(0deg);
+      transform: rotate(0deg);
+      -webkit-transition: .5s ease-in-out;
+      -moz-transition: .5s ease-in-out;
+      -o-transition: .5s ease-in-out;
+      transition: .5s ease-in-out;
+      cursor: pointer; }
+    header #nav-icon1 span {
+      display: block;
+      position: absolute;
+      height: 4px;
+      width: 100%;
+      background: #ffffff;
+      border-radius: 9px;
+      opacity: 1;
+      left: 0;
+      -webkit-transform: rotate(0deg);
+      -moz-transform: rotate(0deg);
+      -o-transform: rotate(0deg);
+      transform: rotate(0deg);
+      -webkit-transition: .25s ease-in-out;
+      -moz-transition: .25s ease-in-out;
+      -o-transition: .25s ease-in-out;
+      transition: .25s ease-in-out; }
+    header #nav-icon1 span:nth-child(1) {
+      top: 0px; }
+    header #nav-icon1 span:nth-child(2) {
+      top: 13px; }
+    header #nav-icon1 span:nth-child(3) {
+      top: 26px; }
+    header #nav-icon1.open span:nth-child(1) {
+      top: 13px;
+      -webkit-transform: rotate(135deg);
+      -moz-transform: rotate(135deg);
+      -o-transform: rotate(135deg);
+      transform: rotate(135deg); }
+    header #nav-icon1.open span:nth-child(2) {
+      opacity: 0;
+      left: -60px; }
+    header #nav-icon1.open span:nth-child(3) {
+      top: 13px;
+      -webkit-transform: rotate(-135deg);
+      -moz-transform: rotate(-135deg);
+      -o-transform: rotate(-135deg);
+      transform: rotate(-135deg); }
+    header .user-wrapp {
+      display: none; }
+    header .user-wp-mob {
+      display: inline-block;
+      float: right; }
+
+  .header-bottom {
+    text-align: center;
+    font-size: 0; }
+    .header-bottom .time-block {
+      float: none;
+      vertical-align: top; }
+    .header-bottom .select-puz {
+      float: none;
+      vertical-align: top; }
+
+  .fixtab-menu {
+    display: block;
+    width: 170px;
+    position: fixed;
+    top: 100px;
+    right: -170px;
+    z-index: 2000;
+    -webkit-box-shadow: 0 3px 9.7px 0.3px rgba(45, 49, 56, 0.3);
+    box-shadow: 0 3px 9.7px 0.3px rgba(45, 49, 56, 0.3);
+    transition: right 0.2s linear; }
+
+  .togg-fixtab {
+    right: 0; }
+
+  .hb-nav {
+    padding: 10px;
+    background-color: #3059a2;
+    float: none;
+    height: auto; }
+    .hb-nav li {
+      display: block !important;
+      width: 100%;
+      position: relative; }
+      .hb-nav li:last-child {
+        margin-bottom: 0; }
+      .hb-nav li a {
+        width: 100%;
+        display: block;
+        padding: 5px;
+        color: white; }
+        .hb-nav li a:hover {
+          text-decoration: none;
+          background-color: #466fb7;
+          color: white; }
+        .hb-nav li a:focus {
+          text-decoration: none;
+          background-color: #466fb7;
+          color: white; }
+
+  .enter-m,
+  .registration-m,
+  .help-m, .user-m {
+    color: white;
+    font-size: 25px;
+    display: inline-block;
+    margin-right: 20px;
+    margin-top: 4px; }
+    .enter-m:hover,
+    .registration-m:hover,
+    .help-m:hover, .user-m:hover {
+      color: #00b9ff; }
+    .enter-m:focus,
+    .registration-m:focus,
+    .help-m:focus, .user-m:focus {
+      color: #00b9ff; }
+
+  .help-m {
+    margin-right: 0px; }
+
+  .sub-nav-m {
+    display: none; }
+
+  .main-slider .title {
+    font-size: 25px; }
+  .main-slider .slider-txt {
+    font-size: 14px;
+    width: 80%;
+    margin: 0 auto; }
+
+  .our-series .themes-and-coll .coll-item {
+    width: 100%; }
+    .our-series .themes-and-coll .coll-item img {
+      height: 100%; }
+
+  .friend-item .play-name {
+    text-overflow: ellipsis;
+    overflow: hidden;
+    width: 120px; }
+  .friend-item p {
+    font-size: 12px; }
+
+  .ava > img {
+    height: 40px;
+    width: 40px; }
+
+  .page-404 {
+    background-size: 100% 100%; }
+
+  .theme-item {
+    margin-bottom: 30px; }
+
+  .name-theme .count-comm {
+    margin: 0 40px 0 0; }
+
+  .search-wp .search-th {
+    width: 200px; }
+
+  .theme-wp .default-btn {
+    width: 120px;
+    line-height: 38.5px;
+    font-size: 14px; }
+
+  .us-vk {
+    width: 80%;
+    margin: 30px auto 30px auto; }
+
+  .top-gamers {
+    width: 80%;
+    margin: 30px auto 30px auto; }
+
+  .pop-caleg {
+    width: 80%;
+    margin: 30px auto 30px auto; }
+
+  .puz-item-bg {
+    width: 80%;
+    margin: 0 auto 30px auto; }
+
+  .best-time {
+    width: 80%;
+    margin: 0 auto 30px auto; }
+
+  .rait-list {
+    width: 80%;
+    margin: 0 auto 30px auto; }
+
+  .similar-info .similar {
+    width: 80%;
+    margin: 0 auto 30px auto; }
+
+  .info2 .puz-item-bg {
+    width: 80%;
+    margin: 0 auto 30px auto; }
+  .info2 .rait-list {
+    width: 80%;
+    float: none; }
+  .info2 .best-time {
+    width: 80%; }
+    .info2 .best-time .page-title-sm {
+      width: 100%; }
+  .info2 .zack-pazl {
+    width: 80%;
+    margin: 0 auto 30px auto; }
+    .info2 .zack-pazl .default-btn {
+      width: 100%;
+      margin: 0 auto; }
+  .info2 .similar {
+    width: 80%;
+    margin: 0 auto 40px auto; }
+  .info2 .puz-item-sm {
+    width: 60%;
+    margin: 0 auto;
+    position: relative; }
+
+  .oth-pers-room {
+    border-radius: 5px; }
+    .oth-pers-room .fr-width-12 .friend-item {
+      width: 100%; }
+      .oth-pers-room .fr-width-12 .friend-item .play-name {
+        margin: 0 80px -2px 20px; }
+    .oth-pers-room .user-header {
+      height: auto; }
+      .oth-pers-room .user-header .user-ava {
+        width: 50%;
+        border-right: none; }
+        .oth-pers-room .user-header .user-ava .play-name {
+          margin: 5px 0 5px 25px; }
+        .oth-pers-room .user-header .user-ava .name {
+          display: block;
+          margin: 0px 0 0 71px; }
+      .oth-pers-room .user-header .user-inf {
+        font-size: 12px;
+        padding: 4px 0 0 25px;
+        width: 50%;
+        border-right: none;
+        border-left: none; }
+      .oth-pers-room .user-header .user-commun {
+        width: 50%;
+        height: auto;
+        border-right: 0.5px solid #193973;
+        margin-bottom: 10px;
+        border-left: none;
+        padding: 0; }
+        .oth-pers-room .user-header .user-commun .add-friend {
+          display: none; }
+        .oth-pers-room .user-header .user-commun .send-mess {
+          display: none; }
+        .oth-pers-room .user-header .user-commun .commum-wp {
+          display: block;
+          width: fit-content;
+          margin: 0 auto; }
+        .oth-pers-room .user-header .user-commun .add-friend-m {
+          font-size: 30px;
+          display: inline-block;
+          margin: 0 40px 10px 0 !important;
+          width: fit-content; }
+        .oth-pers-room .user-header .user-commun .send-mess-m {
+          font-size: 30px;
+          display: inline-block;
+          margin: 0 0 10px 0;
+          width: fit-content; }
+        .oth-pers-room .user-header .user-commun .dispatch {
+          margin: 5px auto 7px auto !important;
+          display: block;
+          width: fit-content; }
+        .oth-pers-room .user-header .user-commun .change-pass {
+          margin: 0 auto 6px auto;
+          display: block;
+          width: fit-content; }
+      .oth-pers-room .user-header .user-rait {
+        width: 50%;
+        height: auto;
+        margin: 0;
+        background-color: #3059a2;
+        border-left: 0.5px solid #193973; }
+        .oth-pers-room .user-header .user-rait p br {
+          display: none; }
+        .oth-pers-room .user-header .user-rait .rating {
+          font-size: 30px;
+          margin-left: 10px; }
+      .oth-pers-room .user-header .user-menu .navig li a {
+        font-size: 11px;
+        padding: 13px 8px 13px 8px; }
+      .oth-pers-room .user-header .user-menu .create-p {
+        font-size: 13px;
+        padding: 0 0 0 37px; }
+        .oth-pers-room .user-header .user-menu .create-p:before {
+          left: 20px; }
+    .oth-pers-room .puzzles-categ .self {
+      margin: 24px 15px 29px 15px; }
+    .oth-pers-room .puzzles-categ .favorites-puz, .oth-pers-room .puzzles-categ .played-puz, .oth-pers-room .puzzles-categ .created-puz {
+      padding: 0 15px 0 15px; }
+    .oth-pers-room .friends {
+      padding: 0 15px; }
+    .oth-pers-room .friend-item {
+      width: 31.4%;
+      border-radius: 5px;
+      padding: 15px 0 10px 13px;
+      float: left;
+      margin: 0 20px 30px 0; }
+      .oth-pers-room .friend-item:nth-child(3) {
+        margin: 0 0 30px 0; }
+
+  .profile-puzzles .puz-item-sm {
+    overflow: auto; }
+
+  .settings {
+    padding-left: 0; }
+    .settings a {
+      margin: 35px 0 40px 35px !important; }
+
+  .checkbox:not(checked),
+  .checkbox2:not(checked),
+  .checkbox3:not(checked) {
+    margin: 0 !important; }
+    .checkbox:not(checked) + label,
+    .checkbox2:not(checked) + label,
+    .checkbox3:not(checked) + label {
+      margin: 0 !important; }
+
+  .series-themes-wp {
+    float: left;
+    clear: left;
+    margin-top: 20px; } }
+@media screen and (max-width: 767px) {
+  header .logo {
+    font-size: 22px;
+    margin: 2px 0 8px 0; }
+
+  #nav-icon1 {
+    margin: 4px auto 0 auto !important; }
+
+  .enter-m,
+  .registration-m,
+  .help-m, .user-m {
+    font-size: 23px;
+    margin-right: 21px;
+    margin-top: 1px; }
+
+  .help-m {
+    margin-right: 0; }
+
+  .main-slider {
+    height: 250px; }
+    .main-slider .title {
+      font-size: 14px;
+      margin: 80px 0 20px 0; }
+    .main-slider .slider-txt {
+      font-size: 10px;
+      width: 80%;
+      margin: 0 auto; }
+    .main-slider .owl-nav .owl-prev {
+      position: absolute;
+      top: 80px;
+      left: 6%; }
+    .main-slider .owl-nav .owl-next {
+      position: absolute;
+      top: 80px;
+      right: 6%; }
+
+  .page-title {
+    font-size: 26px;
+    margin: 25px auto 35px auto;
+    display: block;
+    width: fit-content; }
+
+  .puz-item-wp {
+    width: 75%;
+    margin: 0 auto 30px auto; }
+
+  .most-favorites-puz .main-btn {
+    width: 60%;
+    margin: 37px auto 68px auto; }
+
+  .our-series .page-title {
+    margin: 24px auto 20px auto; }
+
+  .our-series .themes-and-coll .coll-item {
+    width: 75%;
+    margin: 0 auto 30px auto; }
+    .our-series .themes-and-coll .coll-item img {
+      width: 100%;
+      height: 100%; }
+
+  .friend-item {
+    width: 75%;
+    margin: 0 auto 30px auto; }
+    .friend-item .play-name {
+      text-overflow: ellipsis;
+      overflow: hidden;
+      width: 135px; }
+    .friend-item p {
+      font-size: 14px; }
+
+  .site-descr p {
+    font-size: 14px; }
+
+  .page-404 .center-txt {
+    font-size: 14px;
+    top: 60%;
+    width: 310px; }
+    .page-404 .center-txt a {
+      font-size: 14px;
+      background: white; }
+
+  .theme-item {
+    width: 80%;
+    margin: 0 auto 30px auto; }
+
+  .name-theme .right-wp {
+    text-align: center;
+    width: 100%;
+    float: none;
+    margin-top: 15px; }
+  .name-theme .th-user .th-user-name {
+    margin: 0 15px 0 0; }
+
+  #enter-modal .title-wp, #reg-modal .title-wp, #create-puzzle .title-wp {
+    height: auto;
+    display: block;
+    padding: 15px;
+    background: none;
+    text-align: center;
+    position: relative;
+    float: none;
+    border-radius: 5px 5px 0 0;
+    background-color: #3059a2; }
+    #enter-modal .title-wp .title, #reg-modal .title-wp .title, #create-puzzle .title-wp .title {
+      font-size: 36px;
+      margin: 0;
+      -o-transform: none;
+      -ms-transform: none;
+      -moz-transform: none;
+      transform: none;
+      -webkit-transform: none;
+      position: initial;
+      height: auto; }
+  #enter-modal .cont-wp, #reg-modal .cont-wp, #create-puzzle .cont-wp {
+    float: none !important;
+    padding: 0 15px !important; }
+  #enter-modal input, #reg-modal input, #create-puzzle input {
+    width: 100% !important; }
+  #enter-modal .vk,
+  #enter-modal .fb,
+  #enter-modal .tw,
+  #enter-modal .ok,
+  #enter-modal .g, #reg-modal .vk,
+  #reg-modal .fb,
+  #reg-modal .tw,
+  #reg-modal .ok,
+  #reg-modal .g, #create-puzzle .vk,
+  #create-puzzle .fb,
+  #create-puzzle .tw,
+  #create-puzzle .ok,
+  #create-puzzle .g {
+    width: 40px !important;
+    height: 40px !important;
+    margin-right: 10px !important; }
+  #enter-modal .g, #reg-modal .g, #create-puzzle .g {
+    margin-right: 0px !important; }
+  #enter-modal .reg-new, #reg-modal .reg-new, #create-puzzle .reg-new {
+    margin-bottom: 20px !important; }
+  #enter-modal .social, #reg-modal .social, #create-puzzle .social {
+    display: block;
+    width: fit-content;
+    margin: 0 auto; }
+
+  .reg-cont .login {
+    margin: 25px 15px 20px 0 !important; }
+  .reg-cont .pass {
+    margin: 0 15px 20px 0 !important; }
+  .reg-cont .title-wp {
+    height: auto !important; }
+
+  #reg-modal {
+    width: 300px !important; }
+
+  .theme-wp {
+    display: block;
+    float: none;
+    margin: 25px auto 35px auto;
+    width: fit-content; }
+
+  .puz-item-wp {
+    width: 100%;
+    margin: 0 auto 30px auto; }
+
+  .puz-item-bg {
+    width: 60%;
+    margin: 0 auto 30px auto; }
+
+  .best-time {
+    width: 60%;
+    margin: 0 auto 30px auto; }
+
+  .rait-list {
+    width: 60%;
+    margin: 0 auto 30px auto; }
+
+  .similar-info .similar {
+    width: 60%;
+    margin: 0 auto 30px auto; }
+  .similar-info .puz-item-sm {
+    position: relative; }
+
+  .info2 .puz-item-sm {
+    width: 70% !important;
+    margin: 0 auto;
+    position: relative !important; }
+
+  .most-favorites-puz .puz-item-sm {
+    width: 55%;
+    position: relative; }
+
+  .pazzle_list .puz-item-sm {
+    width: 55%;
+    position: relative; }
+
+  .oth-pers-room .user-header {
+    overflow: inherit; }
+    .oth-pers-room .user-header .user-ava {
+      width: 100%; }
+    .oth-pers-room .user-header .user-inf {
+      width: 100%; }
+      .oth-pers-room .user-header .user-inf p {
+        width: 100%; }
+    .oth-pers-room .user-header .user-rait p {
+      margin: 10px 0 14px 0; }
+    .oth-pers-room .user-header .user-rait .rating {
+      font-size: 20px; }
+    .oth-pers-room .user-header .user-menu {
+      position: relative; }
+      .oth-pers-room .user-header .user-menu .navig {
+        display: none;
+        position: absolute;
+        z-index: 100;
+        width: 100%;
+        height: auto;
+        top: 40px;
+        -webkit-box-shadow: 0 3px 9.7px 0.3px rgba(45, 49, 56, 0.3);
+        box-shadow: 0 3px 9.7px 0.3px rgba(45, 49, 56, 0.3); }
+        .oth-pers-room .user-header .user-menu .navig li {
+          display: block;
+          margin: 0 auto;
+          position: relative;
+          width: fit-content; }
+          .oth-pers-room .user-header .user-menu .navig li:last-child {
+            margin-bottom: 10px; }
+        .oth-pers-room .user-header .user-menu .navig .new-mess {
+          right: 0px; }
+      .oth-pers-room .user-header .user-menu .create-p {
+        padding: 0 0 0 0;
+        text-align: center; }
+        .oth-pers-room .user-header .user-menu .create-p:before {
+          display: none; }
+      .oth-pers-room .user-header .user-menu .mob-secmenu {
+        display: inline-block;
+        width: 28%;
+        height: 100%;
+        background-color: #284b8b;
+        border: none;
+        box-shadow: none;
+        float: left;
+        color: white;
+        font-size: 14px;
+        font-weight: bold; }
+      .oth-pers-room .user-header .user-menu .create-p {
+        width: 28%;
+        float: right; }
+  .oth-pers-room .friend-item {
+    width: 46%;
+    border-radius: 5px;
+    padding: 15px 0 10px 13px;
+    float: none;
+    margin: 0 auto 30px auto;
+    display: block; }
+    .oth-pers-room .friend-item p {
+      width: 75%; }
+    .oth-pers-room .friend-item:nth-child(3) {
+      margin: 0 auto 30px auto; }
+  .oth-pers-room .puz-item-sm {
+    width: 50%;
+    margin: 0 auto;
+    position: relative; }
+  .oth-pers-room .fr-width-12 .friend-item {
+    width: 60%; }
+
+  .pazzle_players .prof-info {
+    width: 60%;
+    margin: 0 auto 30px auto; }
+
+  .create-pazl a {
+    margin: 0 0 30px 0; }
+  .create-pazl .upl-im-wp {
+    margin: 0 0 30px 0; }
+
+  .checkbox:not(checked),
+  .checkbox2:not(checked),
+  .checkbox3:not(checked) {
+    margin: 0 !important; }
+    .checkbox:not(checked) + label,
+    .checkbox2:not(checked) + label,
+    .checkbox3:not(checked) + label {
+      margin: 50px 0 0 0 !important; }
+
+  .friend-item {
+    width: 85%; }
+    .friend-item p {
+      width: 75%; }
+
+  .themes-and-coll .coll-item {
+    width: 60%;
+    margin: 0 auto 30px auto; } }
+@media screen and (max-width: 700px) {
+  .oth-pers-room .friend-item {
+    width: 60% !important; }
+
+  .most-favorites-puz .puz-item-sm {
+    width: 60%;
+    position: relative; } }
+@media screen and (max-width: 550px) {
+  .most-favorites-puz .puz-item-sm {
+    width: 70%;
+    position: relative; }
+  .most-favorites-puz .main-btn {
+    width: 75%; }
+
+  .pazzle_list .puz-item-sm {
+    width: 70%;
+    position: relative; }
+
+  .oth-pers-room .puz-item-sm {
+    width: 75%;
+    margin: 0 auto;
+    position: relative; }
+  .oth-pers-room .friend-item {
+    width: 70% !important; }
+
+  .filtr-list {
+    text-align: center;
+    float: none; }
+    .filtr-list .filtr-ul li {
+      display: block;
+      margin-right: 0;
+      margin-bottom: 10px; }
+    .filtr-list .filtr-ul span {
+      display: none; }
+
+  .series-themes-wp {
+    float: none;
+    clear: none;
+    margin: 20px auto 0 auto;
+    width: fit-content; }
+
+  .search-wp {
+    display: block;
+    margin: 0 auto 20px auto; } }
+@media screen and (max-width: 500px) {
+  .puz-item-wp {
+    width: 100%;
+    margin: 0 auto 30px auto; }
+
+  .puz-item-bg {
+    width: 80%;
+    margin: 0 auto 30px auto; }
+
+  .best-time {
+    width: 80%;
+    margin: 0 auto 30px auto; }
+
+  .rait-list {
+    width: 80%;
+    margin: 0 auto 30px auto; }
+
+  .similar-info .similar {
+    width: 80%;
+    margin: 0 auto 30px auto; }
+
+  .info2 .similar {
+    width: 100%;
+    margin: 0 auto 30px auto; }
+  .info2 .puz-item-sm {
+    width: 85% !important;
+    margin: 0 auto;
+    position: relative !important; }
+
+  .most-favorites-puz .puz-item-sm {
+    width: 75%;
+    position: relative; }
+
+  .pazzle_list .puz-item-sm {
+    width: 75%;
+    position: relative; }
+
+  .oth-pers-room .puz-item-sm {
+    width: 80%;
+    margin: 0 auto;
+    position: relative; }
+  .oth-pers-room .friend-item {
+    width: 85% !important; }
+
+  .pazzle_players .prof-info {
+    width: 75%;
+    margin: 0 auto 30px auto; }
+
+  .name-theme > a {
+    display: block;
+    margin: 0 auto;
+    width: fit-content; }
+
+  .name-theme .th-user .th-user-name {
+    text-overflow: ellipsis;
+    overflow: hidden;
+    width: 70px;
+    height: 16px; }
+
+  .themes-and-coll .coll-item {
+    width: 75%; } }
+@media screen and (max-width: 400px) {
+  header .logo {
+    font-size: 18px;
+    margin: 5px 0 10px 0; }
+    header .logo img {
+      width: 22px;
+      height: 22px;
+      margin: 0 7px 0 0; }
+
+  .theme-wp {
+    text-align: center; }
+
+  .name-theme {
+    padding: 22px 0 22px 10px; }
+
+  .search-wp {
+    margin: 0 0 20px 0;
+    width: 100%; }
+    .search-wp .search-th {
+      width: 100%; }
+
+  .puz-item-wp {
+    width: 100%;
+    margin: 0 auto 30px auto; }
+
+  .puz-item-bg {
+    width: 85%;
+    margin: 0 auto 30px auto; }
+
+  .best-time {
+    width: 85%;
+    margin: 0 auto 30px auto; }
+
+  .rait-list {
+    width: 85%;
+    margin: 0 auto 30px auto; }
+
+  .similar-info .similar {
+    width: 85%;
+    margin: 0 auto 30px auto; }
+
+  .info2 .similar {
+    width: 100%;
+    margin: 0 auto 30px auto; }
+  .info2 .puz-item-sm {
+    width: 90% !important;
+    margin: 0 auto;
+    position: relative !important; }
+
+  .most-favorites-puz .puz-item-sm {
+    width: 85%;
+    position: relative; }
+
+  .pazzle_list .puz-item-sm {
+    width: 85%;
+    position: relative; }
+
+  .oth-pers-room .user-header .user-ava {
+    width: 100%;
+    border-right: none; }
+  .oth-pers-room .user-header .user-inf {
+    width: 100%;
+    height: auto;
+    border-left: none; }
+    .oth-pers-room .user-header .user-inf .user-inf-w {
+      width: 100%; }
+    .oth-pers-room .user-header .user-inf .user-inf-w {
+      width: 100% !important; }
+  .oth-pers-room .user-header .user-rait p {
+    margin: 10px 0 14px 0; }
+  .oth-pers-room .user-header .user-rait .rating {
+    font-size: 20px; }
+  .oth-pers-room .user-header .user-commun {
+    padding: 0; }
+    .oth-pers-room .user-header .user-commun .add-friend-m {
+      margin: 0 25px 10px 0 !important; }
+    .oth-pers-room .user-header .user-commun .dispatch:after {
+      display: none; }
+  .oth-pers-room .user-header .user-menu .mob-secmenu {
+    width: 50%; }
+  .oth-pers-room .user-header .user-menu .create-p {
+    width: 50%; }
+  .oth-pers-room .puz-item-sm {
+    width: 80%;
+    margin: 0 auto;
+    position: relative; }
+  .oth-pers-room .friend-item {
+    width: 100% !important; }
+    .oth-pers-room .friend-item p {
+      width: 60%; }
+  .oth-pers-room .themes-and-coll .coll-item {
+    width: 80%; }
+
+  .pazzle_players .prof-info {
+    width: 85%;
+    margin: 0 auto 30px auto; }
+
+  .friend-item {
+    width: 90%; }
+
+  .enter-m,
+  .registration-m,
+  .help-m, .user-m {
+    margin-right: 10px; } }
+@media screen and (max-width: 320px) {
+  #nav-icon1 {
+    width: 32px !important; }
+
+  .enter-m,
+  .registration-m,
+  .help-m, .user-m {
+    font-size: 22px;
+    margin-right: 16px;
+    margin-top: 1px; }
+
+  .help-m {
+    margin-right: 0; }
+
+  .main-slider .owl-nav .owl-prev {
+    position: absolute;
+    top: 80px;
+    left: 4%; }
+  .main-slider .owl-nav .owl-next {
+    position: absolute;
+    top: 80px;
+    right: 4%; }
+
+  .puz-item-wp {
+    width: 90%; }
+
+  .our-series .themes-and-coll .coll-item {
+    width: 90%; }
+
+  .friend-item {
+    width: 90%; }
+
+  .page-title {
+    font-size: 21px; }
+
+  .page-404 {
+    height: 150px; }
+    .page-404 img {
+      display: none; }
+    .page-404 .center-txt {
+      font-size: 14px;
+      top: 30%;
+      width: 185px; }
+      .page-404 .center-txt a {
+        font-size: 14px; }
+
+  .theme-item {
+    width: 90%; }
+
+  .name-theme .count-comm {
+    margin: 0 15px 0 0; }
+  .name-theme .th-user .th-user-name {
+    margin: 0 15px 0 0; }
+
+  .puz-item-wp {
+    width: 100%;
+    margin: 0 auto 30px auto; }
+
+  .puz-item-bg {
+    width: 95%;
+    margin: 0 auto 30px auto; }
+
+  .best-time {
+    width: 95%;
+    margin: 0 auto 30px auto; }
+
+  .rait-list {
+    width: 95%;
+    margin: 0 auto 30px auto; }
+
+  .similar-info .similar {
+    width: 95%;
+    margin: 0 auto 30px auto; }
+
+  .info2 .similar {
+    width: 100%;
+    margin: 0 auto 30px auto; }
+  .info2 .puz-item-sm {
+    width: 100% !important;
+    margin: 0 auto;
+    position: relative !important; }
+
+  .pazzle_list .puz-item-sm {
+    width: 100%;
+    position: relative; }
+
+  .oth-pers-room .puz-item-sm {
+    width: 100%;
+    margin: 0 auto;
+    position: relative; }
+
+  .pazzle_players .prof-info {
+    width: 95%;
+    margin: 0 auto 30px auto; }
+
+  .themes-and-coll .coll-item {
+    width: 90%; }
+
+  .create-pazl .upload-area span {
+    font-size: 13px; }
+
+  .most-favorites-puz .puz-item-sm {
+    width: 95%;
+    position: relative; } }
+
+/*# sourceMappingURL=style_media.css.map */
